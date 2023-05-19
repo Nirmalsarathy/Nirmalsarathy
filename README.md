@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nirmalsarathy
+- 👋 Hi, I’m @Nirmal
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...web design
 - 💞️ I’m looking to collaborate on ...
